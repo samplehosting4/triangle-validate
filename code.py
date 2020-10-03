@@ -11,6 +11,6 @@ a2=int(input("\nEnter degree of second angle :>>"))
 a3=int(input("\nEnter degree of third angle :>>"))
 
 if (s1+s2>s3) and (s1+s3>s2) and (s2+s3>s1) and ((a1+a2+a3)==180)  :
-   print("\n\t\t\tVALID TRIANGLE")
+   print("\n\t\t\tVALID Dimensions of TRIANGLE")
 else :
-   print("\n\t\t\tINVALID TRIANGLE")
+   print("\n\t\t\tINVALID Dimensions of TRIANGLE")
