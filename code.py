@@ -2,7 +2,7 @@
 #simple triangle validator
 #---*---MY first code in python---*---#
 #input :simply just enter all sides and angles of the triangle one by one# 
-print("\t\t\tWECOME,MASTER|")
+print("\t\t\tWELCOME,MASTER|")
 s1=int(input("\nEnter lebgth of first side :>"))
 s2=int(input("\nEnter length of second side :>"))
 s3=int(input("\nEnter side of third side :.>"))
